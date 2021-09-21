@@ -124,3 +124,4 @@ Bitcoin            |  Ethereum | Dogecoin
 towards the end:
 - [ ] Add next page and prev page links
 - [ ] exercises: rename project names
+
